@@ -3,4 +3,4 @@
 # Header
 ### Summarize the project and what problem it was solving.
   * <<bullet>>
-  * 
+
