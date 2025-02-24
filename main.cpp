@@ -1,5 +1,4 @@
 /* 
-John Grampp
 CS-210
 Project 2 : Airgead Banking Investment Calculator
 main.cpp
