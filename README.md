@@ -18,4 +18,4 @@
   * As with much of the programming assignments/projects in this course, the OOP concepts will be most transferrable and applicable to future work. Encapsulating the calculations and outputs into varous methods and classes is an overall theme of OOP concepts and general programming efficiency.
 
 ### How did you make this program maintainable, readable, and adaptable?
-  * Easy readability and maintenance was achieved through the various methods and 
+  * Easy readability and maintenance was achieved through the various functions and methods. In-line comments were included throughout to enhance understanding and maintenance of the code.
