@@ -1,6 +1,5 @@
 # CS-210-Project-Two-Airgead-Banking
 
-# Header
 ### Summarize the project and what problem it was solving.
   * The purpose of this project was to create a program for our client, Airgead Banking, to demonstrate to high school student the difference in overall investment growth with -and- without a monthly deposit into that investment account.
 
